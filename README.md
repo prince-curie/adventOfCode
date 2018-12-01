@@ -5,5 +5,5 @@
 <h2>Day 1 First challenge</h2>
 <p>
   To view the solution click 
-  <a href = "https://repl.it/@prince_curie/VapidLovelyDistributionsoftware">here</a>
+  <a href = "https://repl.it/@prince_curie/VapidLovelyDistributionsoftware" target="blank">here</a>
 </P> 
